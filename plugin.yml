@@ -1,0 +1,11 @@
+name: GM
+main: zDraw\Main
+api: ['3.0.0', '4.0.0']
+version: Pro
+author: Draw
+description: "Plugin criado por Draw"
+
+commands:
+  gm: 
+    description: "Alterar modo de jogo"
+    permission: gm.use
